@@ -1,0 +1,18 @@
+#first{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 0.9rem;
+    justify-content: center;
+    align-items: center;
+    border: solid rgb(174, 178, 192) 0.1rem;
+    padding: 2rem;
+    border-radius: 1.8rem;
+}
+
+h2{
+    font-size: 2rem;
+}   
+p{
+    font-size: 0.9rem;
+}
