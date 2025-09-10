@@ -12,7 +12,9 @@
 
 h2{
     font-size: 2rem;
+    color: black;
 }   
-p{
+p{  
+    color: black;
     font-size: 0.9rem;
 }
